@@ -2,10 +2,26 @@
   h1 {
     font-family: "Dancing Script", cursive;
   }
-  p{
-      font-size: 20px;
+  p {
+    font-size: 20px;
   }
-  .row{
+  .row {
     margin-top: 20px;
+  }
+  .actor {
+    margin: 20px;
+    i{
+      font-size: 25px;
+      font-family: "Dancing Script", cursive;
+    }
+    img {
+      border-radius: 999px;
+    }
+  }
+  .banner {
+    border: 1px solid rgb(247, 64, 64);
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px;
   }
 }
