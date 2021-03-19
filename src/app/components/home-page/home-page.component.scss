@@ -2,9 +2,11 @@
   h1 {
     font-family: "Dancing Script", cursive;
     padding: 10px;
+    color: rgb(242, 75, 75);
   }
   p {
     font-size: 25px;
+    color:rgb(247, 122, 4)
   }
   .row {
     margin-top: 20px;
@@ -14,6 +16,7 @@
     i{
       font-size: 25px;
       font-family: "Dancing Script", cursive;
+      color:rgb(242, 71, 9);
     }
     img,marquee {
       border-radius: 999px;
@@ -32,5 +35,8 @@
     text-align: center;
     border-radius: 20px;
     margin: 20px;
+  }
+  .address{
+    font-family: "Dancing Script", cursive;
   }
 }
