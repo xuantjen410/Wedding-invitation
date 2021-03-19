@@ -1,25 +1,34 @@
 .container {
   h1 {
     font-family: "Dancing Script", cursive;
+    padding: 10px;
   }
   p {
-    font-size: 20px;
+    font-size: 25px;
   }
   .row {
     margin-top: 20px;
   }
   .actor {
-    margin: 20px;
+    // margin: 20px;
     i{
       font-size: 25px;
       font-family: "Dancing Script", cursive;
     }
-    img {
+    img,marquee {
       border-radius: 999px;
     }
   }
   .banner {
-    border: 1px solid rgb(247, 64, 64);
+    i{
+      font-size: 20px;
+      font-family: "Dancing Script", cursive;
+      color: red
+    }
+    p{
+      font-size: 20px !important;
+    }
+    // border: 1px solid rgb(247, 64, 64);
     text-align: center;
     border-radius: 20px;
     margin: 20px;
