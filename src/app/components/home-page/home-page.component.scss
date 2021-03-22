@@ -1,12 +1,16 @@
 .container {
+  font-family: "Dancing Script", cursive;
+  // font-family: "Petit Formal Script", cursive
   h1 {
     font-family: "Dancing Script", cursive;
     padding: 10px;
-    color: rgb(242, 75, 75);
+    // color: rgb(242, 75, 75);
+    color: #154065;
   }
   p {
     font-size: 25px;
-    color:rgb(247, 122, 4)
+    // color:rgb(247, 122, 4)
+    color:#154065;
   }
   .row {
     margin-top: 20px;
@@ -16,7 +20,8 @@
     i{
       font-size: 25px;
       font-family: "Dancing Script", cursive;
-      color:rgb(242, 71, 9);
+      // color:rgb(242, 71, 9);
+      color: #154065;
     }
     img,marquee {
       border-radius: 999px;
@@ -26,7 +31,8 @@
     i{
       font-size: 20px;
       font-family: "Dancing Script", cursive;
-      color: red
+      // color: red
+      color:#154065;
     }
     p{
       font-size: 20px !important;
